@@ -19,31 +19,20 @@
 </div>
 
 ## Implementations and Improvements
-### 📌 Home Page
-#### Navigation and Search Bar
-![navigation](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/c1a101c6-d893-4a8a-8206-e46dfad4efc0)
+### 📌 Home Page and Book Form
+Add book to the library
+![Add Current Book](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/5a13213f-ffac-478d-9fd4-e0e7ca2b07ee)
 
-#### Book Form
-Add Current Reading Book
-
-Add Previous Reading Book
 ### 📌 Library Page
 #### Current Reading
-
-#### Top Favorite
-
-#### Previous Reading
+![current reading livrary](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/c148625d-c1d4-4dbb-a3dc-846dbd50e405)
 
 ### DOM Manipulation
-#### Move the current reading book to the previous reading
-
-#### Move the previous reading book to the current reading
-
-#### Detecting books with 5 rates
+#### Moving book from each library
+![except search dom](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/4567cc79-3d3e-414a-9b59-97448af418e9)
 
 #### Search book based on the title
-
-#### Rename the book
+![search](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/7b523a52-a65e-471f-bf20-e7842fd4211a)
 
 ## Results
 
