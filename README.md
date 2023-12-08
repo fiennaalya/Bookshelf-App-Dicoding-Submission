@@ -5,13 +5,13 @@
 
 # Table Of Content
 * [Programming Languages](#programming-languages)
-* [Implementations and Improvements](#implementations-and-improvements)
+* [Overview](#overview)
 * [Results](#results)
 * [Installation](#installation)
 
 # Programming Languages
 
-# Implementations and Improvements
+# Overview
 
 # Results
 
