@@ -19,6 +19,31 @@
 </div>
 
 ## Implementations and Improvements
+### 📌 Home Page
+#### Navigation and Search Bar
+![navigation](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/c1a101c6-d893-4a8a-8206-e46dfad4efc0)
+
+#### Book Form
+Add Current Reading Book
+
+Add Previous Reading Book
+### 📌 Library Page
+#### Current Reading
+
+#### Top Favorite
+
+#### Previous Reading
+
+### DOM Manipulation
+#### Move the current reading book to the previous reading
+
+#### Move the previous reading book to the current reading
+
+#### Detecting books with 5 rates
+
+#### Search book based on the title
+
+#### Rename the book
 
 ## Results
 
