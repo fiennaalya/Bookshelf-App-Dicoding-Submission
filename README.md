@@ -18,6 +18,8 @@
 </p>
 </div>
 
+note: this page includes gif that previews the website, it will take some time to load the gif, please be patient.
+
 ## Implementations and Improvements
 ### 📌 Home Page and Book Form
 Add book to the library
