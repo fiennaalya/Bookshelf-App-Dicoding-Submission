@@ -37,5 +37,3 @@ Add book to the library
 ![search](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/7b523a52-a65e-471f-bf20-e7842fd4211a)
 
 ## Results
-
-## Installation
