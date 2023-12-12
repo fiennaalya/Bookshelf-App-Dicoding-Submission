@@ -22,8 +22,13 @@
 
 ## Implementations and Improvements
 ### 📌 Home Page and Book Form
+On the top of the website is a navigation bar where the position remains fixed and does not interfere with scrolling behavior.
+
+The home page includes a book form to add books to the library. The form constructs the input for the Title, Author, and Year as required. Furthermore, users can provide additional information about the book's category, cover image, and rating.
 Add book to the library
 ![Add Current Book](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/5a13213f-ffac-478d-9fd4-e0e7ca2b07ee)
+
+The rating input will appear when the user marks the book as finished.
 
 ### 📌 Library Page
 #### Current Reading
