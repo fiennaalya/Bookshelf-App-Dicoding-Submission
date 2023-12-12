@@ -28,7 +28,9 @@ The home page includes a book form to add books to the library. The form constru
 Add book to the library
 ![Add Current Book](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/5a13213f-ffac-478d-9fd4-e0e7ca2b07ee)
 
-The rating input will appear when the user marks the book as finished.
+<img width="250" alt="image" src="https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/be3ee14f-09a7-4a83-9261-4934b4efad95">
+<p>The rating input will appear when the user marks the book as finished.</p>
+
 
 ### 📌 Library Page
 #### Current Reading
