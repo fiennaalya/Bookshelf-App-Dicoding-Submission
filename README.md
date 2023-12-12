@@ -26,9 +26,9 @@ On the top of the website is a navigation bar where the position remains fixed a
 
 The home page includes a book form to add books to the library. The form constructs the input for the Title, Author, and Year as required. Furthermore, users can provide additional information about the book's category, cover image, and rating.
 Add book to the library
-![Add Current Book](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/5a13213f-ffac-478d-9fd4-e0e7ca2b07ee)
+![Add Current Book (1)](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/a1a6b4a3-cf48-49ca-b69e-46a2ffdfc55c)
 
-<img width="250" alt="image" src="https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/be3ee14f-09a7-4a83-9261-4934b4efad95">
+<img width="300" alt="image" src="https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/be3ee14f-09a7-4a83-9261-4934b4efad95">
 <p>The rating input will appear when the user marks the book as finished.</p>
 
 
