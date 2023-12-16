@@ -6,9 +6,9 @@
 
 <h3>Project Overview</h3>
   
-| Program       | Learning Path           | Website Preview       |
-| ------------- | ------------------------| ------------------------|
-| [ID Camp 2023](https://idcamp.ioh.co.id/) | [Front End Development](https://www.dicoding.com/learningpaths/22) | [Click Here for Bookshelf App Preview](https://fiennaalya.github.io/Bookshelf-App-Dicoding-Submission/) |
+| Program       | Learning Path           | Website Preview       | Certificate of Completion       |
+| ------------- | ------------------------| ------------------------| ------------------------|
+| [ID Camp 2023](https://idcamp.ioh.co.id/) | [Front End Development](https://www.dicoding.com/learningpaths/22) | [Click Here for Bookshelf App Preview](https://fiennaalya.github.io/Bookshelf-App-Dicoding-Submission/) | [Dicoding Certificate](https://www.dicoding.com/certificates/4EXG4D8D1PRL)
 
 <p>The Website uses 3 programming languages:</p>
 <p align="center">
