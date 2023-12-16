@@ -44,7 +44,7 @@ Add book to the library
 ![search](https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/7b523a52-a65e-471f-bf20-e7842fd4211a)
 
 ## Results
-#### 5 stars achieved! The website resulting the highest score.
+#### ⭐⭐⭐⭐⭐ 5 stars achieved! The website resulting the highest score.
 <img width="326" alt="image" src="https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/b07fc388-ae39-4ac9-b65f-645a4c17ca08">
 
 <img width="329" alt="image" src="https://github.com/fiennaalya/Bookshelf-App-Dicoding-Submission/assets/99575596/0106a35f-7f93-4ae3-8291-f31a955bc275">
